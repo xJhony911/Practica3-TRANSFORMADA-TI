@@ -2,7 +2,7 @@
 
 Este repositorio contiene el desarrollo completo, tanto analítico como computacional, de la **Práctica N° 3** para la asignatura de **Matemática Avanzada**. El objetivo principal es aplicar la Transformada de Fourier continua y sus propiedades fundamentales para analizar, filtrar y modular señales en el dominio de la frecuencia utilizando Python.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gn9pm6FAJ2RcyxniAwA4uVoYAnipAbIE?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/1Gn9pm6FAJ2RcyxniAwA4uV0YAnipAbIE?usp=sharing)
 
 ---
 
