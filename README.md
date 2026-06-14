@@ -17,7 +17,7 @@ Este repositorio contiene el desarrollo completo, tanto analítico como computac
 ---
 
 ## 👥 Integrantes del Grupo
-* **Jonathan Steven Acosta Aldaz** (Código: 421)
+* **Jonathan Steven Acosta Aldaz** 
 * **Kevin Andres Morales Abril**
 * **Kevin Gabriel Chinlle Yunga**
 
